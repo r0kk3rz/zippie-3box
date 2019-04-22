@@ -15,7 +15,11 @@
     "@zippie/vault-web3-provider": "file:../vault-web3-provider",
     "@zippie/zippie-api": "^1.0.0",
     "callbag-html": "^0.2.0",
+    "ipfs": "^0.35.0",
     "muport-did-resolver": "^0.2.0",
+    "orbit-db": "^0.20.0-rc.6",
+    "orbit-db-identity-provider": "0.1.0-rc.1.3",
+    "sha.js": "^2.4.11",
     "web3": "^1.0.0-beta.52"
   },
   "devDependencies": {
